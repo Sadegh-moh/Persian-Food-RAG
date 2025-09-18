@@ -1,1 +1,0 @@
-# Persian-Food-RAG
